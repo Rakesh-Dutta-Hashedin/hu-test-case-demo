@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/root/workspace/POC/hu-test-case-demo/src/App.test.js">
+  </file>
+  <file path="/root/workspace/POC/hu-test-case-demo/src/components/Counter/index.test.js">
+  </file>
+</testExecutions>
